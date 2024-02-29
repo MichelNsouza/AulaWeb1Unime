@@ -6,7 +6,6 @@ Este repositório contém as atividades da disciplina de Desenvolvimento Web 1, 
 - [Introdução](#introdução)
 - [Atividades](#atividades)
 - [Contribuidores](#contribuidores)
-- [Licença](#licença)
 
 ## Introdução
 Neste repositório, você encontrará soluções para diversos exercícios e projetos de desenvolvimento web. A disciplina aborda tópicos como HTML, CSS, JavaScript e muito mais.
