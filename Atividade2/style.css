@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+}
+
+body{
+  background-color: #201F24;
+  color: white;
+  align-items: center;
+}
+
+h1{
+  text-align: center;
+  padding: 2% 0 5% 0;
+  font-size: 2em;
+}
+
+.container{
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: right; 
+  align-items: left;
+  margin:0 15% 5% 15%;
+}
+
+h2{
+  margin: 1%;
+  font-size: 1.5em;
+}
+
+ul{
+  width: 100%;
+}
+
+li{
+  margin: 1%;
+  padding: 2%;
+  height: 5%;
+  background-color:#2A292E ;
+  list-style-type: none;
+  border: 1px;
+}
+
+li:hover{
+  background-color: #194E78;
+  border: 2px solid;
+  border-color: #2095EE;
+  text-decoration: line-through;
+}
+
+.copyr{
+  text-align: center;
+  color: #838181;
+  background-color: #2A292E;
+  margin: 5% 1% 1% 1%;
+  padding: 5% 10% 5% 10%;
+  border: 2px dashed #838181; 
+}
+/* Topo, direita, inferior, esquerda */
