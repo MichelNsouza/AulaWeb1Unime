@@ -15,6 +15,10 @@ Neste repositório, você encontrará soluções para diversos exercícios e pro
 - [Codigo Fonte](https://github.com/MichelNsouza/Web1Unime/tree/main/Atividade1) 
 - [Git Pages](https://michelnsouza.github.io/Web1Unime/Atividade1/index.html)
 
+- Atividade 2: Prêmio - Introdução ao HTML.
+- [Codigo Fonte](https://github.com/MichelNsouza/Web1Unime/blob/main/Atividade2) 
+- [Git Pages](https://michelnsouza.github.io/Web1Unime/Atividade2/index.html)
+
 
 ## Contribuidores
 - Professor Paulo Reis
