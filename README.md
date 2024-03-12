@@ -23,6 +23,10 @@ Neste repositório, você encontrará soluções para diversos exercícios e pro
 - [Codigo Fonte](https://github.com/MichelNsouza/Web1Unime/blob/main/AtividadeSaladeAula/Atividade1/index.html) 
 - [Git Pages](https://michelnsouza.github.io/Web1Unime/AtividadeSaladeAula/Atividade1/index.html)
 
+- Atividade 3: Buraco de freitas - Introdução ao Flexbox.
+- [Codigo Fonte](https://github.com/MichelNsouza/Atividade-3-web)
+- [Git Pages](https://buracodefreitas.vercel.app/)
+  
 ## Contribuidores
 - Professor Paulo Reis
 - Alunos do curso de BSI da UNIME
