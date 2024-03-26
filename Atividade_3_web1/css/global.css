@@ -1,0 +1,75 @@
+/* Importando os arquivos CSS */
+@import url('home.css');
+@import url('contato.css');
+@import url('denuncia.css');
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Configuração global */
+* {
+  font-family: "Overpass", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; 
+  
+ /* padding-bottom: 20px;*/ 
+}
+
+/* Header */
+.navegacao {
+  width: 100%;
+  height: 80px;
+  background-color: #127CE7;
+}
+.navegacao-navbar {
+  color: white;
+  display: flex;
+  font-size: 19px;
+  max-width: 1028px; 
+  justify-content: space-between;
+  margin: auto;
+  padding: 25px 0;
+}
+.navegacao-logo {
+  display: flex;
+  align-items: center;
+}
+.navegacao-logo > img {
+  margin-right: 10px; 
+}
+.navegacao-lista {
+  list-style: none;
+  display: flex;
+}
+.navegacao-lista > li > a {
+  color: white;
+  text-decoration: none;  
+  padding: 0 30px;
+}
+
+/* Conteúdo central */
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: center;
+  max-width: 1028px; 
+  margin: auto;
+  
+}
+
+/* Footer */
+.rodape {
+  background-color: #127CE7;
+  color: #fff;
+  width: 100%;
+  height: 167px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: 19px;
+}
+.coracao {
+  width: 24px;
+  height: 24px;
+}

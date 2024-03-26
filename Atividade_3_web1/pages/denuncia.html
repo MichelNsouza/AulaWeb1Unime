@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Denuncia</title>
+    <link href="../css/global.css" rel="stylesheet" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <header class="navegacao">
+      <nav class="navegacao-navbar">
+
+        <div class="navegacao-logo">
+          <img src="../img/nav/icone-camera.svg"/>
+          <p>
+            Buraco de Freitas
+          </p>
+        </div>
+
+        <ul class="navegacao-lista">
+          <li>
+            <a href="../index.html">
+              <img src="../img/nav/home.svg"/>
+              Home
+            </a>
+          </li>
+
+          <li>
+            <a>
+              <img src="../img/nav/denuncia.svg"/>
+              Denunciar
+            </a>
+          </li>
+
+          <li>
+            <a href="../pages/contato.html">
+              <img src="../img/nav/contato.svg"/>
+              Contato
+            </a>
+          </li>
+        </ul>
+
+      </nav>
+    </header>
+
+  <main class="main-denuncia">
+    
+    <form class="formulario" method="post">
+
+      <h1>Faça sua denuncia</h1>
+      <div class="linha"></div>
+    
+      <div id="container-pai">
+        <div class="container">
+          <div class="field">
+              <label for="nome"><b>Qual o seu nome?</b></label>
+              <input type="text" class="fieldinput" name="nome" placeholder="Ex.: Pedro Santos" required>
+          </div>
+        </div>
+        <div class="container">
+          <div class="field">
+              <label for="email"><b>Qual o seu e-mail?</b></label>
+              <input type="text" class="fieldinput"  name="email" placeholder="Ex.: email@gmail.com">
+          </div>
+        </div>
+        <div class="field">
+          <label class="labelmensagem" for="local"><b>Qual o local do buraco?</b></label>
+          <input type="text"  class="fieldinput2" name="local" placeholder="Ex.: Av. Luiz Tarquinio Pontes, n° 137">
+            </div>
+        
+            <div class="field">
+        <label  class="labelmensagem" for="referencia"><b>Ponto de referência</b></label>
+        <input type="text" class="fieldinput2"  name="referencia" placeholder="Ex.: Ao lado do mercado Rede Mix">
+            </div>
+        <div class="field">
+            <label class="labelmensagem" for="fotografia"><b>Fotografia</b></label>
+            <label class="fieldtextarea" for="fotografia"><b>Clique</b> ou <b>arraste</b> uma foto para aqui!</label>  
+          <input type="file" class="fieldtextarea" id="fotografia" name="fotografia" accept="image/*" required>
+          
+        </div>
+              <input type="submit" id="registrar-denuncia" name="acao" value="Registrar denuncia">
+      </div>
+      
+    </form>
+  </main>
+    
+    <footer class="rodape">
+      <p class="rodape-paragrafo">Copyright @ 2024 - Buraco de Freitas - <span>
+          Todos os direitos reservados<br>
+          Desenvolvido com muito<span class="coracao"> &#x2665;</span> por: Fulano de Tal</span></p>
+    </footer>
+  
+</body>
+
+</html>
