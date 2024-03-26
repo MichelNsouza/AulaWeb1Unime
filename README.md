@@ -27,8 +27,8 @@ Neste repositório, você encontrará soluções para diversos exercícios e pro
 
 
 - Atividade 3 - em grupo: Buraco de freitas - Introdução ao Flexbox.
-- [Codigo Fonte](https://github.com/MichelNsouza/Atividade-3-web)
-- [Git Pages](https://buracodefreitas.vercel.app/)
+- [Codigo Fonte](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime/blob/main/Atividade_3_web1)
+- [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/Atividade_3_web1/index.html)
 
 
 - Avaliação Parcial 1.
