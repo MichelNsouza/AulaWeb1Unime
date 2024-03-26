@@ -28,7 +28,7 @@ Neste repositório, você encontrará soluções para diversos exercícios e pro
 - [Git Pages](https://buracodefreitas.vercel.app/)
 -  Atividade em Off individual: Buraco de freitas em PHP.
 - [Codigo Fonte](https://github.com/MichelNsouza/Buraco-de-freitas)
-- [Vercel Deploy](https://buraco-de-freitas.vercel.app/))
+- [Vercel Deploy](https://buraco-de-freitas.vercel.app/)
 
 - Avaliação Parcial 1.
 - [Codigo Fonte](https://github.com/MichelNsouza/parcialweb1)
