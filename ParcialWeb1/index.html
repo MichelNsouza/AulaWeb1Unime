@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pacrial 1</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+        body{
+            background-color: #1E1E1E;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: auto;
+        }
+        .container{
+            display: flex;
+            flex-direction: row;
+            max-width: 1100px;
+            max-height: 656px;
+            justify-content: center;
+            align-items:end
+        }
+        .barra1,.barra2,.barra3,.barra4,.barra5{
+            margin: 27px;
+            border-radius: 20px;
+            color: white;
+            padding: 28px;
+            text-align:center;
+            align-items: end;
+            display: flex;
+            flex-direction: column;
+            justify-content: end;
+            
+        }
+        .stacks {
+            display: flex;
+            flex-direction: row;
+
+        }
+        .stacks > p{
+            color: white;
+            margin: 80px;
+            margin-top: 0;
+        }
+        .milhao{
+            font-size: 42px;
+        }
+        .barra1{
+            width: 198px;
+            height: 139px;
+            background-color: #498467;
+        }
+        .barra2{
+            width: 198px;
+            height: 199px;
+            background-color: #F6AE2D;
+        }
+        .barra3{
+            width: 198px;
+            height: 272px;
+            background-color:#FFC857;
+        }
+        .barra4{
+            width: 198px;
+            height: 374px;
+            background-color: #52B788;
+        }
+        .barra5{
+            width: 198px;
+            height: 447px;
+            background-color: #DB504A;
+        }
+
+        .titulo{
+            background-color: #52B788;
+            width: 1047px;
+            height: 70px;
+            border-radius: 20px;
+            font-size: 40px;
+            padding-left: 46px;
+            padding-top: 11px;
+            color: white;
+            
+        }
+        .circulo {
+            background-color: #52B788;
+            border-radius: 90px;
+            width: 106px;
+            height: 106px;
+            background-image: url("Share.svg");
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        .titulobarra{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+        .linha{
+            width: 1148px;
+            height: 13px;
+            background-color: white;
+            border-radius: 10px;
+            margin-bottom: 22px;
+        }
+    </style>
+</head>
+<body>
+    
+
+    <div class="titulobarra">
+    
+        <h1 class="titulo"> Programadores por área</h1>
+
+        <div class="circulo">
+
+        </div>
+    </div>
+
+    <div class="container">
+        
+        <div class="barra1">
+            <p class="milhao">2 M</p>
+            <p>Nullam dict</p>
+        </div>
+        <div class="barra2">
+            <p class="milhao">7 M</p>
+            <p>Cum tempor</p>
+        </div>
+        <div class="barra3">
+            <p class="milhao">13 M</p>
+            <p>Pretium leo</p>
+        </div>
+        <div class="barra4">
+            <p class="milhao">20 M</p>
+            <p>Donec nunc</p>
+        </div>
+        <div class="barra5">
+            <p class="milhao">37 M</p>
+            <p>Ornare egestas</p>
+        </div>
+    </div>
+    <div class="linha"></div>
+    <div class="stacks">
+        <p>IOS</p>
+        <p>Android</p>
+        <p>FullStack</p>
+        <p>Front-end</p>
+        <p>back-End</p>
+    </div>
+</body>
+</html>
