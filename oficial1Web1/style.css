@@ -1,0 +1,254 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Inter";
+}
+a{
+    text-decoration: none;
+}
+
+nav, main, footer {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #6161DC;
+}
+
+header {
+    width: 100%;
+    background-color: white;
+    height: 90px;
+}
+
+.navegacao {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    font-size: 42px;
+    color: #6161DC;
+}
+
+.destaqueRosa {
+    color: #DC61D0;
+}
+
+.lista {
+    font-size: 18px;
+    display: flex;
+    list-style: none;
+}
+
+.lista-item {
+    margin: 0 16px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.conteudo {
+    margin: auto;
+    margin-top: 40px;
+    background-color: white;
+    height: 500px;
+    display: flex;
+    border-radius: 20px;
+}
+
+.titulo {
+    color: #6161DC;
+    font-size: 28px;
+    margin-bottom: 28px;
+}
+
+.entrada-arquivo {
+    padding: 30px;
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    width: 441px;
+    border-radius: 20px;
+}
+
+.enviar-arquivo {
+    width: 364px;
+    height: 369px;
+    border-radius: 20px;
+    border: 4px solid #6161DC;
+    border-style: dashed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    background-color: #6161dc20;
+    text-align: center;
+    color: #6161DC;
+}
+
+.entrada-arquivo > input[type="file"] {
+    display: none;
+}
+
+.botao-selecione {
+    padding-top: 13px;
+    text-align: center;
+    color: white;
+    background-color: #6161DC;
+    width: 188px;
+    height: 48px;
+    border-radius: 50px;
+    font-size: 18px;
+}
+
+.ou {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    margin: 20px 0 20px 0;
+    color: #666666;
+}
+
+.linhaOu {
+    margin: 10px;
+    width: 122px;
+    height: 1px;
+    background-color: #A7A7A7;
+}
+
+.resultado-envio {
+    padding: 30px;
+    background-color:#F0F0FC;
+    width: 519px;
+    height: 100%;
+    border-radius: 25px;
+    box-shadow: 1px rgba(0, 0, 0, 0.561);
+    color: #6161DC;
+}
+
+.selecoes {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.selecao {
+    margin: 5px;
+    border-radius: 8px;
+    padding: 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #C4C4F8;
+    width: 439px;
+    height: 96px;
+    font-size: 16px;
+
+}
+.baixando-titulo{
+    font-weight: bold;
+}
+.destaqueVermelho {
+    color: #CE0000;
+}
+
+.botoes {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-top: 20px;
+}
+.botoes > a{
+    text-align: center;
+    padding-top:13px ;
+    font-weight: bold;
+    font-size: 18px;
+}
+.cancelar {
+    background-color: #E0E0FB;
+    width: 245px;
+    height: 48px;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 2px;
+}
+
+.continuar {
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 2px;
+    color: white;
+    background-color: #6161DC;
+    width: 139px;
+    height: 48px;
+}
+
+footer {
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+
+
+.imagem-nuvem{
+    width: 144px;
+    height: 144px;
+}
+.baixando{
+    margin-left: 13px;
+    width: 300px;
+    height: 38px;
+}
+
+.selecaoload{
+    margin: 5px;
+    border-radius: 8px;
+    padding: 19px;
+    background-color: #C4C4F8;
+    width: 439px;
+    height: 96px;
+    font-size: 16px;
+}
+
+.selecao0{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 11px;
+}
+.load{
+    width: 348px;
+    height: 5px;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+.loadbar{
+    border-radius: 4px;
+    width: 226px;
+    height: 5px;
+    background-color: #6161DC;
+}
+
+.corromp{
+    margin-right: 14px;
+}
+
+.reload{
+    margin-right: 8px;
+}
