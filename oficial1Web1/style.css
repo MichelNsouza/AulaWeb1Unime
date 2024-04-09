@@ -132,7 +132,9 @@ header {
     border-radius: 25px;
     box-shadow: 1px rgba(0, 0, 0, 0.561);
     color: #6161DC;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.712);
 }
+
 
 .selecoes {
     margin-top: 20px;
@@ -235,6 +237,7 @@ footer {
     width: 348px;
     height: 5px;
     background-color: white;
+    margin-left: 10px;
     margin-bottom: 20px;
     border-radius: 4px;
 }
