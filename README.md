@@ -35,6 +35,10 @@ Neste repositório, você encontrará soluções para diversos exercícios e pro
 - [Codigo Fonte](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime/tree/main/ParcialWeb1)
 - [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/ParcialWeb1/index.html)
 
+
+- Avaliação Oficial 1.
+- [Codigo Fonte](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime/tree/main/oficial1Web1/index.html)
+- [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/oficial1Web1/index.html)
   
 ## Contribuidores
 - Professor Paulo Reis
