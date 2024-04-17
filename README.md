@@ -32,7 +32,7 @@ Neste repositório, você encontrará soluções para diversos exercícios e pro
 
 
 - Avaliação Parcial 1.
-- [Codigo Fonte](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime/tree/main/ParcialWeb1)
+- [Codigo Fonte](https://github.com/MichelNsouza/atividade-complementar-web-1)
 - [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/ParcialWeb1/index.html)
 
 
