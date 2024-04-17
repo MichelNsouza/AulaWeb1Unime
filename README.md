@@ -41,8 +41,8 @@ Neste repositório, você encontrará soluções para diversos exercícios e pro
 - [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/oficial1Web1/index.html)
 
 - Atividade Complementar - Rick And Morty Search - consumindo API's
-- [Codigo Fonte](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime/tree/main/oficial1Web1/index.html)
-- [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/oficial1Web1/index.html)
+- [Codigo Fonte](https://github.com/MichelNsouza/atividade-complementar-web-1)
+- [Git Pages](https://michelnsouza.github.io/atividade-complementar-web-1/)
   
 ## Contribuidores
 - Professor Paulo Reis
