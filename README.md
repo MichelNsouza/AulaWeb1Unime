@@ -31,20 +31,20 @@ Atividade 3 - em grupo: Buraco de freitas - Introdução ao Flexbox.
 - [Git Pages](https://michelnsouza.github.io/Atividade3-web1/)
 
 
- Avaliação Parcial 1.
+Avaliação Parcial 1.
 - [Codigo Fonte](https://github.com/MichelNsouza/atividade-complementar-web-1)
 - [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/ParcialWeb1/index.html)
 
 
- Avaliação Oficial 1.
+Avaliação Oficial 1.
 - [Codigo Fonte](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime/tree/main/oficial1Web1/index.html)
 - [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/oficial1Web1/index.html)
 
- Atividade Complementar - Rick And Morty Search - consumindo API's
+Atividade Complementar - Rick And Morty Search - consumindo API's
 - [Codigo Fonte](https://github.com/MichelNsouza/atividade-complementar-web-1)
 - [Git Pages](https://michelnsouza.github.io/atividade-complementar-web-1/)
 
-- Atividade em Sala de Aula: Consulta Ibge-API.
+Atividade em Sala de Aula: Consulta Ibge-API.
 - [Codigo Fonte](https://github.com/MichelNsouza/Consulta_API_Ibge)
 - [Git Pages](https://michelnsouza.github.io/Consulta_API_Ibge/)
   
