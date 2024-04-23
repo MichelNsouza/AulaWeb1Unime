@@ -43,6 +43,10 @@ Atividade 3 - em grupo: Buraco de freitas - Introdução ao Flexbox.
  Atividade Complementar - Rick And Morty Search - consumindo API's
 - [Codigo Fonte](https://github.com/MichelNsouza/atividade-complementar-web-1)
 - [Git Pages](https://michelnsouza.github.io/atividade-complementar-web-1/)
+
+- Atividade em Sala de Aula: Consulta Ibge-API.
+- [Codigo Fonte](https://github.com/MichelNsouza/Consulta_API_Ibge)
+- [Git Pages](https://michelnsouza.github.io/Consulta_API_Ibge/)
   
 ## Contribuidores
 - Professor Paulo Reis
