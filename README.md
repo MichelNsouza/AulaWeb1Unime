@@ -23,7 +23,7 @@ Atividade 2: Minhas Tarefas - Introdução ao CSS.
 
 Atividade em Sala de Aula: CertifiqueMe.
 - [Codigo Fonte](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime/blob/main/AtividadeSaladeAula/index.html)
-- [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/AtividadeSaladeAula/Atividade1/index.html)
+- [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/AtividadeSaladeAula/index.html)
 
 
 Atividade 3 - em grupo: Buraco de freitas - Introdução ao Flexbox.
