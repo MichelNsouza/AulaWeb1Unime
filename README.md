@@ -47,6 +47,11 @@ Atividade Complementar - Rick And Morty Search - consumindo API's
 Atividade em Sala de Aula: Consulta Ibge-API.
 - [Codigo Fonte](https://github.com/MichelNsouza/Consulta_API_Ibge)
 - [Git Pages](https://michelnsouza.github.io/Consulta_API_Ibge/)
+
+Atividade 4: Consulta Fipe-API.
+- [Codigo Fonte](https://github.com/MichelNsouza/Consulta_API_TabelaFipe)
+- [Git Pages](https://michelnsouza.github.io/Consulta_API_TabelaFipe/)
+
   
 ## Contribuidores
 - Professor Paulo Reis
