@@ -30,19 +30,19 @@ Atividade 3: CertifiqueMe.
 - [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/AtividadeSaladeAula/index.html)
 
 Atividade 4 em grupo: Buraco de freitas - Introdução ao Flexbox.
-- [Codigo Fonte]()
-- [Git Pages]()
+- [Codigo Fonte](https://github.com/MichelNsouza/BuracoDeFreitas_Parcial1Web1Unime)
+- [Git Pages](https://michelnsouza.github.io/BuracoDeFreitas_Parcial1Web1Unime/)
 
-Atividade 4 - Consulta Fipe-API.
+Atividade 5: Consulta Fipe-API.
 - [Codigo Fonte](https://github.com/MichelNsouza/Consulta_API_TabelaFipe)
 - [Git Pages](https://michelnsouza.github.io/Consulta_API_TabelaFipe/)
 
 ## Extras
-Atividade Complementar - Rick And Morty Search - consumindo API's
+Atividade Complementar:  Rick And Morty Search - consumindo API's
 - [Codigo Fonte](https://github.com/MichelNsouza/RickAndMortySearch)
 - [Git Pages](https://michelnsouza.github.io/RickAndMortySearch/)
 
-Atividade Complementar - Consulta Ibge-API.
+Atividade Complementar: Consulta Ibge-API.
 - [Codigo Fonte](https://github.com/MichelNsouza/Consulta_API_Ibge)
 - [Git Pages](https://michelnsouza.github.io/Consulta_API_Ibge/)
 
@@ -63,7 +63,7 @@ Avaliação Oficial 2 em sala de aula e em dupla (1/2).
 - [Codigo Fonte]()
 - [Git Pages]()
 
-Avaliação Oficial 2 em grupo (2/2) - WallDreams
+Avaliação Oficial 2 em grupo (2/2):  WallDreams
 - [Codigo Fonte](#)
 - [deploy](#)
 
