@@ -60,8 +60,8 @@ Avaliação Oficial 1 (2/2): Buraco de Freitas.
 - [Git Pages](https://michelnsouza.github.io/BuracoDeFreitas_Parcial1Web1Unime/)
 
 Avaliação Oficial 2 em sala de aula e em dupla (1/2).
-- [Codigo Fonte]()
-- [Git Pages]()
+- [Codigo Fonte](https://github.com/MichelNsouza/Desenvolvimento_Web_1_Unime/tree/main/oficial2web1)
+- [Git Pages](https://michelnsouza.github.io/Desenvolvimento_Web_1_Unime/oficial2web1/index.html)
 
 Avaliação Oficial 2 em grupo (2/2):  WallDreams
 - [Codigo Fonte](#)
