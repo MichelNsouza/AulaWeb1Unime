@@ -1,6 +1,6 @@
 # Desenvolvimento Web 1 - UNIME
 
-Este repositório contém as atividades da disciplina de Desenvolvimento Web 1, ministrada pelo Professor Paulo Reis no curso de BSI da UNIME.
+Este repositório contém as atividades e projetos da disciplina de Desenvolvimento Web 1, ministrada pelo Professor Paulo Reis no curso de BSI da UNIME.
 
 ## Sumário
 
