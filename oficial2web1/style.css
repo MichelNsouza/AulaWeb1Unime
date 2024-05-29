@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+}
+
+footer{
+    text-align: center;
+    width: 100%;
+    padding: 25px;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
