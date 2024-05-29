@@ -33,8 +33,8 @@ Atividade 3: CertifiqueMe.
 
 
 Atividade 4 em grupo - Buraco de freitas - Introdução ao Flexbox.
-- [Codigo Fonte](https://github.com/MichelNsouza/Atividade3-web1)
-- [Git Pages](https://michelnsouza.github.io/Atividade3-web1/)
+- [Codigo Fonte]()
+- [Git Pages]()
 
 Atividade 4 - Consulta Fipe-API.
 - [Codigo Fonte](https://github.com/MichelNsouza/Consulta_API_TabelaFipe)
@@ -44,8 +44,8 @@ Atividade 4 - Consulta Fipe-API.
 ## Extras
 
 Atividade Complementar - Rick And Morty Search - consumindo API's
-- [Codigo Fonte](https://github.com/MichelNsouza/atividade-complementar-web-1)
-- [Git Pages](https://michelnsouza.github.io/atividade-complementar-web-1/)
+- [Codigo Fonte](https://github.com/MichelNsouza/RickAndMortySearch)
+- [Git Pages](https://michelnsouza.github.io/RickAndMortySearch/)
 
 Atividade Complementar - Consulta Ibge-API.
 - [Codigo Fonte](https://github.com/MichelNsouza/Consulta_API_Ibge)
