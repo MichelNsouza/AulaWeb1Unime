@@ -6,8 +6,8 @@ Este repositório contém as atividades da disciplina de Desenvolvimento Web 1, 
 
 - [Introdução](#introdução)
 - [Atividades](#atividades)
-- [Atividade extra](#AtividadesExtras)
-- [Avaliações](#Avaliaçõesoficiais(pontuadas))
+- [Atividade extra](#Extras)
+- [Avaliações](#Oficiais)
 - [Contribuidores](#contribuidores)
 
   
@@ -41,7 +41,7 @@ Atividade 4 - Consulta Fipe-API.
 - [Git Pages](https://michelnsouza.github.io/Consulta_API_TabelaFipe/)
 
   
-## Atividades Extras
+## Extras
 
 Atividade Complementar - Rick And Morty Search - consumindo API's
 - [Codigo Fonte](https://github.com/MichelNsouza/atividade-complementar-web-1)
@@ -52,7 +52,7 @@ Atividade Complementar - Consulta Ibge-API.
 - [Git Pages](https://michelnsouza.github.io/Consulta_API_Ibge/)
 
 
-## Avaliações oficiais (pontuadas)
+## Oficiais
 
 Avaliação Parcial 1 e Oficial 1 (1/2).
 - [Codigo Fonte](https://github.com/MichelNsouza/atividade-complementar-web-1)
