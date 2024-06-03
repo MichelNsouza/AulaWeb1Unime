@@ -67,5 +67,5 @@ Avaliação Oficial 2 em grupo (2/2):  WallDreams
 - [Codigo Fonte](https://github.com/MichelNsouza/walldreams)
 
 ## Contribuidores
-- Professor Paulo Reis
+- [Professor Paulo Reis](https://github.com/PHPauloReis)
 - Alunos do curso de BSI da UNIME
