@@ -65,7 +65,6 @@ Avaliação Oficial 2 em sala de aula e em dupla (1/2).
 
 Avaliação Oficial 2 em grupo (2/2):  WallDreams
 - [Codigo Fonte](https://github.com/MichelNsouza/walldreams)
-- [deploy](http://ec2-18-229-159-118.sa-east-1.compute.amazonaws.com/)
 
 ## Contribuidores
 - Professor Paulo Reis
